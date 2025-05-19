@@ -26,7 +26,7 @@
 <div align="center">
 
 ```
-  🔴 🟡 🟢  abir@cyberspace:~$
+  🔴 🟡 🟢
 
 ▄▀█ █▄▄ █ █▀█
 █▀█ █▄█ █ █▀▄
@@ -171,16 +171,12 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abir-islam-z&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abir-islam-z&theme=radical" alt="GitHub Trophies" />
 </div>
 
 ## 📫 Connect With Me
 
 <div align="center">
-
-```
-  🔴 🟡 🟢  $ init contact_protocol
-```
 
 <a href="mailto:jahirul.islam.abir001@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Email" />
