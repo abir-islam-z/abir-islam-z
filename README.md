@@ -56,7 +56,7 @@ I’m a lifelong learner who enjoys exploring new technologies, solving challeng
   <a href="https://www.facebook.com/abirislam10i/">
     <img src="./assets/facebook_neon.svg" alt="Facebook" height="60" />
   </a>
-  <a href="https://twitter.com/abir_islam_z">
+  <a href="https://twitter.com/abirislam10i">
     <img src="./assets/twitter_neon.svg" alt="Twitter" height="60" />
   </a>
 </div>
