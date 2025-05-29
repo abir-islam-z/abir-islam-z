@@ -28,9 +28,6 @@
 ```
   🔴 🟡 🟢
 
-▄▀█ █▄▄ █ █▀█
-█▀█ █▄█ █ █▀▄
-
 🚀 Full Stack Developer | Java, JavaScript, TypeScript
 💻 Frontend: React, Next.js | Backend: Node.js, NestJS, Express
 ☁️ Docker, AWS, CI/CD | 3+ Years Experience
