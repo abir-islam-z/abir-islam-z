@@ -1,0 +1,33 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MD. Jahirul Islam — Full-Stack Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141210"/>
+      <stop offset="50%" stop-color="#1c1916"/>
+      <stop offset="100%" stop-color="#10100f"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c4a574" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#c4a574" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#c4a574" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="35%" r="45%">
+      <stop offset="0%" stop-color="#c4a574" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#c4a574" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#glow)"/>
+
+  <!-- Fine architectural lines -->
+  <line x1="64" y1="72" x2="64" y2="268" stroke="#c4a574" stroke-width="1.5" opacity="0.85"/>
+  <line x1="72" y1="72" x2="72" y2="268" stroke="#c4a574" stroke-width="0.5" opacity="0.35"/>
+  <rect x="0" y="338" width="1200" height="2" fill="url(#line)"/>
+
+  <text x="96" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="6" fill="#c4a574">SOFTWARE ENGINEER</text>
+  <text x="96" y="168" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700" fill="#f7f1e8">MD. Jahirul Islam</text>
+  <text x="96" y="208" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#b8aea0">Full-stack systems · AI-aware products · Production craft</text>
+
+  <text x="96" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#8a8175">Dhaka  ·  Periscope Digital  ·  Open to roles</text>
+  <text x="96" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#8a8175">jahirul.xyz</text>
+</svg>

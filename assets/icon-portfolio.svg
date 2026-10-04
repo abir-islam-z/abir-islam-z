@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="44" viewBox="0 0 160 44" role="img" aria-label="Portfolio">
+  <rect width="160" height="44" rx="8" fill="#1c1916" stroke="#3a342c"/>
+  <circle cx="23.5" cy="20.5" r="7" fill="none" stroke="#c4a574" stroke-width="1.4"/>
+  <path d="M17 20.5h13M23.5 14.5c1.8 1.8 2.8 3.8 2.8 6s-1 4.2-2.8 6c-1.8-1.8-2.8-3.8-2.8-6s1-4.2 2.8-6z" fill="none" stroke="#c4a574" stroke-width="1.2"/>
+  <text x="42" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#f0e8dc">Portfolio</text>
+</svg>
