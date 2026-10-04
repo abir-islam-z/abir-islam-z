@@ -118,7 +118,7 @@ Production-minded Node starter for faster project kickoff.
 ### Activity
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=abir-islam-z&show_icons=true&theme=default&hide_border=true&bg_color=141210&title_color=c4a574&icon_color=c4a574&text_color=d8cfc2&ring_color=c4a574" alt="GitHub stats" />
+  <img height="155" src="./assets/stats.svg" alt="1,991 GitHub contributions in the last 12 months" />
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-islam-z&layout=compact&theme=default&hide_border=true&bg_color=141210&title_color=c4a574&text_color=d8cfc2" alt="Top languages" />
 </div>
 
