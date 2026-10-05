@@ -22,7 +22,7 @@
 
 Full-stack engineer with **3+ years** shipping production web applications — from polished React/Next.js interfaces to resilient Node.js backends and data layers. I care about clean architecture, measurable performance, and products that feel intentional.
 
-Currently at **Periscope Digital**, with selective contract work on AI-assisted platforms, payments, and offline-capable systems. Based in Dhaka. Open to engineering roles.
+Currently at **Periscope Digital**. Based in Dhaka. Open to engineering roles.
 
 <div align="center">
   <img src="./assets/divider.svg" width="100%" alt="" />
@@ -33,14 +33,6 @@ Currently at **Periscope Digital**, with selective contract work on AI-assisted 
 **Software Engineer** · Periscope Digital  
 `Jan 2024 — Present`  
 Client applications and internal platforms — React/Next.js UI, Node APIs, integrations, and deployment automation.
-
-**Software Engineer (Contract)** · Express Web Agency  
-`Apr 2026 — Present`  
-Real-time streaming interfaces, Stripe subscription flows, and offline sync with Next.js and Supabase.
-
-**Full-Stack Developer (Contract)** · EncephalonTech  
-`Mar 2026 — May 2026`  
-AI-assisted career/document platform — rich-text editors, template APIs, and high-fidelity PDF export.
 
 **Software Engineer Intern** · Nodecandy  
 `Jul 2023 — Dec 2023`  
